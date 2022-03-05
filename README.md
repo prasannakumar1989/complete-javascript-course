@@ -1,4 +1,4 @@
-# Course Material and FAQ for my Complete JavaScript Course
+## Course Material and FAQ for my Complete JavaScript Course
 
 This branch of the repo contains starter files and final code for all sections and projects of the course, **exactly as shown in the videos**.
 
@@ -22,7 +22,7 @@ There is also a the [updates-and-fixes](https://github.com/jonasschmedtmann/comp
 
 **A:** I use Monokai Pro for all my coding and course production. It's a paid theme (I', **not** affiliated with them), but you can actually use the free demo version forever 😅
 
-### Q4: Can I see a final version of the course projects?
+## Q4: Can I see a final version of the course projects?
 
 **A:** Sure! Here you go:
 
